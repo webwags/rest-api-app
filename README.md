@@ -31,5 +31,7 @@ Below, list all added conversion pairs and allow the user to remove them with a 
 * Make sure README includes all required steps to run your app on a Unix-like environment. We'll do our best to run your app on our computers, but if you use something non-standard you should let us know about it.
 
 
-> Once you're done please upload your finished work to GitHub or bitbucket so we can easily download and review it.
+
+---
+*Once you're done please upload your finished work to GitHub or bitbucket so we can easily download and review it.*
 
