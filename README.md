@@ -1,7 +1,7 @@
 # Simple Currency Conversion PHP Application
 
 
-The app should fetch and display currency conversion rates. To get rates you need to use the free API: http://fixer.io. For this assessment, you'll have a week to complete.
+The app should fetch and display currency conversion rates. To get rates you need to use the free API: http://exchangeratesapi.io. For this assessment, you'll have a week to complete.
 
 The app consists of two pages: the first one is currency conversion rates, the other one is a management page.
 
