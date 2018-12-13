@@ -25,6 +25,10 @@ Below, list all added conversion pairs and allow the user to remove them with a 
 
 ## Requirements
 * Conversion pairs and rates should also be saved in the database. You can use any PHP frameworks or tools like Laravel, Symfony, etc or none at all.
-* You can use any DB engine you want (SQLite, MySQL, Postgresâ€¦).
-* Donâ€™t worry too much about front-end but if you want to make a good impression you can spend some time on the frontend.
-* Make sure README includes all required steps to run your app on a Unix-like environment. Weâ€™ll do our best to run your app on our computers, but if you use something non-standard you should let us know about it.
+* You can use any DB engine you want (SQLite, MySQL, Postgres…).
+* Don’t worry too much about front-end but if you want to make a good impression you can spend some time on the frontend.
+* Make sure README includes all required steps to run your app on a Unix-like environment. We’ll do our best to run your app on our computers, but if you use something non-standard you should let us know about it.
+
+
+> Once you’re done please upload your finished work to GitHub or bitbucket so we can easily download and review it.
+
