@@ -3,7 +3,7 @@
 
 The app should fetch and display currency conversion rates. To get rates you need to use the free API: http://exchangeratesapi.io. For this assessment, you'll have a week to complete.
 
-The app consists of two pages: the first one is currency conversion rates, the other one is a management page.
+The app consists of two pages: the first page displays currency conversion rates that are stored in the database, the other one is a management page to add and remove the conversions from the database.
 
 ## Page 1: Display
 Display all conversion rates in this format:
