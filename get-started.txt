@@ -1,0 +1,3 @@
+Important:
+Create Database with name "rest_api"
+then import the attached import-sql-rest_api.txt file
