@@ -1,7 +1,7 @@
 # Simple Currency Conversion PHP Application
 
 
-The app should fetch and display currency conversion rates. To get rates you need to use the free API: http://exchangeratesapi.io. For this assessment, you'll have a week to complete.
+The app fetches and displays currency conversion rates. To get rates you need to use the free API: http://exchangeratesapi.io. For this assessment, you'll have a week to complete.
 
 The app consists of two pages: the first page displays currency conversion rates that are stored in the database, the other one is a management page to add and remove the conversions from the database.
 
@@ -30,8 +30,4 @@ Below, list all added conversion pairs and allow the user to remove them with a 
 * Don't worry too much about front-end but if you want to make a good impression you can spend some time on the frontend.
 * Make sure README includes all required steps to run your app on a Unix-like environment. We'll do our best to run your app on our computers, but if you use something non-standard you should let us know about it.
 
-
-
----
-*Once you're done please upload your finished work to GitHub or bitbucket so we can easily download and review it.*
 
